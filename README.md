@@ -13,6 +13,3 @@ w Pythonie z wykorzystaniem biblioteki pandas.
 - Python
 - pandas
 - Jupyter Notebook
-
-## Status
-Repozytorium w trakcie rozwoju.
