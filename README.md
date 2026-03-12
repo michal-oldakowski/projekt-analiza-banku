@@ -13,7 +13,7 @@ Celem projektu jest zrozumienie zachowań klientów, analiza transakcji i identy
 ---
 
 ## Umiejętności i technologie
-- **Python** (Pandas, NumPy) – manipulacja i agregacja danych  
+- **Python** (Pandas, SQLAlchemy) – manipulacja i agregacja danych  
 - **SQL** – analiza i filtrowanie dużych zbiorów danych  
 
 ---
